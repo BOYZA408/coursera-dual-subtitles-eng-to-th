@@ -1,6 +1,6 @@
 # Coursera Dual Subtitles
 
-Enable Chinese and English subtitles for Coursera course videos.
+Enable Thai and English subtitles for Coursera course videos.
 
   - [Screenshots](#screenshots)
   - [Usage](#usage)
